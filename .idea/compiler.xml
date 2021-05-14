@@ -11,6 +11,7 @@
         <module name="mysql" />
         <module name="mq" />
         <module name="theory" />
+        <module name="zookeeper" />
         <module name="basics" />
       </profile>
     </annotationProcessing>
@@ -22,6 +23,7 @@
       <module name="netty" target="1.5" />
       <module name="redis" target="1.5" />
       <module name="theory" target="1.5" />
+      <module name="zookeeper" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

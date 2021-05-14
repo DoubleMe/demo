@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/mq/pom.xml" />
         <option value="$PROJECT_DIR$/theory/pom.xml" />
         <option value="$PROJECT_DIR$/mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
